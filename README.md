@@ -18,3 +18,6 @@ who oversaw the VardyQuakes project in Leicester (https://github.com/pdtdenton).
 
 ## /General
 Odds and ends I didn't know where else to store.  
+
+## /SchoolStreets
+This is for the TfGM sponsored SchoolStreets pilot in Chorlton, Greater Manchester around the Brookburn Primary School. 
