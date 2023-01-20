@@ -1,0 +1,135 @@
+25/11/2021	12:20 am	41Ê¡F	36Ê¡F	81Ê%	NW	23Êmph	36Êmph	29.70Êin	0.0Êin	Light Rain / Windy
+25/11/2021	12:50 am	41Ê¡F	36Ê¡F	81Ê%	NW	18Êmph	0Êmph	29.70Êin	0.0Êin	Mostly Cloudy
+25/11/2021	1:20 am	39Ê¡F	36Ê¡F	87Ê%	WNW	18Êmph	0Êmph	29.70Êin	0.0Êin	Light Rain
+25/11/2021	1:50 am	39Ê¡F	36Ê¡F	87Ê%	NW	17Êmph	0Êmph	29.73Êin	0.0Êin	Mostly Cloudy
+25/11/2021	2:20 am	39Ê¡F	36Ê¡F	87Ê%	NW	17Êmph	0Êmph	29.73Êin	0.0Êin	Light Rain
+25/11/2021	2:50 am	37Ê¡F	36Ê¡F	93Ê%	NNW	20Êmph	0Êmph	29.73Êin	0.0Êin	Heavy Rain
+25/11/2021	3:20 am	39Ê¡F	36Ê¡F	87Ê%	WNW	17Êmph	0Êmph	29.73Êin	0.0Êin	Partly Cloudy
+25/11/2021	3:50 am	39Ê¡F	36Ê¡F	87Ê%	NW	18Êmph	0Êmph	29.73Êin	0.0Êin	Light Rain
+25/11/2021	4:20 am	41Ê¡F	34Ê¡F	76Ê%	NW	16Êmph	0Êmph	29.73Êin	0.0Êin	Partly Cloudy
+25/11/2021	4:50 am	39Ê¡F	34Ê¡F	81Ê%	NNW	18Êmph	0Êmph	29.76Êin	0.0Êin	Light Rain
+25/11/2021	5:20 am	39Ê¡F	34Ê¡F	81Ê%	NW	21Êmph	0Êmph	29.76Êin	0.0Êin	Partly Cloudy / Windy
+25/11/2021	5:50 am	41Ê¡F	32Ê¡F	70Ê%	NW	21Êmph	0Êmph	29.76Êin	0.0Êin	Fair / Windy
+25/11/2021	6:20 am	39Ê¡F	32Ê¡F	75Ê%	NW	16Êmph	0Êmph	29.76Êin	0.0Êin	Mostly Cloudy
+25/11/2021	6:50 am	39Ê¡F	32Ê¡F	75Ê%	WNW	17Êmph	0Êmph	29.79Êin	0.0Êin	Partly Cloudy
+25/11/2021	7:20 am	37Ê¡F	34Ê¡F	87Ê%	NW	21Êmph	32Êmph	29.79Êin	0.0Êin	Light Rain Shower / Windy
+25/11/2021	7:50 am	39Ê¡F	34Ê¡F	81Ê%	NW	16Êmph	0Êmph	29.79Êin	0.0Êin	Partly Cloudy
+25/11/2021	8:20 am	39Ê¡F	34Ê¡F	81Ê%	NW	13Êmph	0Êmph	29.79Êin	0.0Êin	Partly Cloudy
+25/11/2021	8:50 am	39Ê¡F	32Ê¡F	75Ê%	NW	15Êmph	0Êmph	29.82Êin	0.0Êin	Fair
+25/11/2021	9:20 am	39Ê¡F	30Ê¡F	70Ê%	NW	14Êmph	0Êmph	29.79Êin	0.0Êin	Partly Cloudy
+25/11/2021	9:50 am	39Ê¡F	32Ê¡F	75Ê%	WNW	16Êmph	0Êmph	29.79Êin	0.0Êin	Partly Cloudy
+25/11/2021	10:20 am	39Ê¡F	32Ê¡F	75Ê%	WNW	14Êmph	0Êmph	29.79Êin	0.0Êin	Partly Cloudy
+25/11/2021	10:50 am	39Ê¡F	32Ê¡F	75Ê%	WNW	12Êmph	0Êmph	29.79Êin	0.0Êin	Partly Cloudy
+25/11/2021	11:20 am	39Ê¡F	32Ê¡F	75Ê%	WNW	13Êmph	0Êmph	29.79Êin	0.0Êin	Fair
+25/11/2021	11:50 am	39Ê¡F	32Ê¡F	75Ê%	WNW	12Êmph	0Êmph	29.79Êin	0.0Êin	Partly Cloudy
+25/11/2021	12:20 pm	39Ê¡F	32Ê¡F	75Ê%	WNW	12Êmph	0Êmph	29.76Êin	0.0Êin	Fair
+25/11/2021	12:50 pm	39Ê¡F	32Ê¡F	75Ê%	WNW	12Êmph	0Êmph	29.76Êin	0.0Êin	Fair
+25/11/2021	1:20 pm	37Ê¡F	30Ê¡F	75Ê%	W	10Êmph	0Êmph	29.73Êin	0.0Êin	Fair
+25/11/2021	1:50 pm	37Ê¡F	30Ê¡F	75Ê%	W	13Êmph	0Êmph	29.73Êin	0.0Êin	Fair
+25/11/2021	2:20 pm	37Ê¡F	32Ê¡F	81Ê%	W	12Êmph	0Êmph	29.70Êin	0.0Êin	Fair
+25/11/2021	2:50 pm	37Ê¡F	32Ê¡F	81Ê%	W	13Êmph	0Êmph	29.67Êin	0.0Êin	Partly Cloudy
+25/11/2021	3:20 pm	37Ê¡F	32Ê¡F	81Ê%	W	12Êmph	0Êmph	29.67Êin	0.0Êin	Fair
+25/11/2021	3:50 pm	37Ê¡F	30Ê¡F	75Ê%	W	13Êmph	0Êmph	29.64Êin	0.0Êin	Fair
+25/11/2021	4:20 pm	37Ê¡F	30Ê¡F	75Ê%	W	13Êmph	0Êmph	29.61Êin	0.0Êin	Fair
+25/11/2021	4:50 pm	37Ê¡F	30Ê¡F	75Ê%	WSW	9Êmph	0Êmph	29.58Êin	0.0Êin	Fair
+25/11/2021	5:20 pm	37Ê¡F	30Ê¡F	75Ê%	WSW	10Êmph	0Êmph	29.55Êin	0.0Êin	Fair
+25/11/2021	5:50 pm	37Ê¡F	30Ê¡F	75Ê%	SW	8Êmph	0Êmph	29.55Êin	0.0Êin	Fair
+25/11/2021	6:20 pm	37Ê¡F	30Ê¡F	75Ê%	WSW	8Êmph	0Êmph	29.49Êin	0.0Êin	Fair
+25/11/2021	6:50 pm	39Ê¡F	30Ê¡F	70Ê%	SW	10Êmph	0Êmph	29.46Êin	0.0Êin	Fair
+25/11/2021	7:20 pm	39Ê¡F	32Ê¡F	75Ê%	SW	10Êmph	0Êmph	29.44Êin	0.0Êin	Mostly Cloudy
+25/11/2021	7:50 pm	37Ê¡F	32Ê¡F	81Ê%	SSW	9Êmph	0Êmph	29.41Êin	0.0Êin	Light Rain
+25/11/2021	8:20 pm	39Ê¡F	32Ê¡F	75Ê%	SSW	10Êmph	0Êmph	29.38Êin	0.0Êin	Light Rain
+25/11/2021	8:50 pm	39Ê¡F	32Ê¡F	75Ê%	SW	12Êmph	0Êmph	29.35Êin	0.0Êin	Light Rain
+25/11/2021	9:20 pm	39Ê¡F	34Ê¡F	81Ê%	SW	12Êmph	0Êmph	29.29Êin	0.0Êin	Light Rain
+25/11/2021	9:50 pm	39Ê¡F	34Ê¡F	81Ê%	SW	12Êmph	0Êmph	29.26Êin	0.0Êin	Light Rain
+25/11/2021	10:20 pm	39Ê¡F	34Ê¡F	81Ê%	SSW	12Êmph	0Êmph	29.23Êin	0.0Êin	Light Rain
+25/11/2021	10:50 pm	39Ê¡F	34Ê¡F	81Ê%	SSW	12Êmph	0Êmph	29.17Êin	0.0Êin	Light Rain
+25/11/2021	11:20 pm	39Ê¡F	36Ê¡F	87Ê%	SSW	10Êmph	0Êmph	29.14Êin	0.0Êin	Light Rain
+25/11/2021	11:50 pm	39Ê¡F	36Ê¡F	87Ê%	SSW	9Êmph	0Êmph	29.08Êin	0.0Êin	Light Rain
+26/11/2021	12:20 am	39Ê¡F	36Ê¡F	87Ê%	SSW	8Êmph	0Êmph	29.03Êin	0.0Êin	Light Rain
+26/11/2021	12:50 am	41Ê¡F	37Ê¡F	87Ê%	SW	8Êmph	0Êmph	29.00Êin	0.0Êin	Light Rain
+26/11/2021	1:20 am	41Ê¡F	37Ê¡F	87Ê%	SW	9Êmph	0Êmph	28.97Êin	0.0Êin	Light Rain
+26/11/2021	1:50 am	43Ê¡F	39Ê¡F	87Ê%	WSW	13Êmph	0Êmph	28.94Êin	0.0Êin	Light Rain
+26/11/2021	2:20 am	43Ê¡F	39Ê¡F	87Ê%	W	14Êmph	0Êmph	28.91Êin	0.0Êin	Light Rain
+26/11/2021	2:50 am	43Ê¡F	39Ê¡F	87Ê%	W	18Êmph	0Êmph	28.91Êin	0.0Êin	Fair
+26/11/2021	3:20 am	43Ê¡F	39Ê¡F	87Ê%	WNW	18Êmph	0Êmph	28.88Êin	0.0Êin	Mostly Cloudy
+26/11/2021	3:50 am	43Ê¡F	39Ê¡F	87Ê%	WNW	18Êmph	0Êmph	28.91Êin	0.0Êin	Light Rain
+26/11/2021	4:20 am	43Ê¡F	39Ê¡F	87Ê%	NW	20Êmph	33Êmph	28.91Êin	0.0Êin	Mostly Cloudy
+26/11/2021	4:50 am	41Ê¡F	37Ê¡F	87Ê%	NW	23Êmph	0Êmph	28.91Êin	0.0Êin	Mostly Cloudy / Windy
+26/11/2021	5:20 am	41Ê¡F	37Ê¡F	87Ê%	NW	22Êmph	0Êmph	28.91Êin	0.0Êin	Mostly Cloudy / Windy
+26/11/2021	5:50 am	41Ê¡F	36Ê¡F	81Ê%	NW	21Êmph	0Êmph	28.88Êin	0.0Êin	Partly Cloudy / Windy
+26/11/2021	6:20 am	41Ê¡F	36Ê¡F	81Ê%	NW	24Êmph	0Êmph	28.88Êin	0.0Êin	Partly Cloudy / Windy
+26/11/2021	6:50 am	41Ê¡F	36Ê¡F	81Ê%	NW	20Êmph	0Êmph	28.88Êin	0.0Êin	Mostly Cloudy
+26/11/2021	7:20 am	39Ê¡F	34Ê¡F	81Ê%	NW	21Êmph	36Êmph	28.91Êin	0.0Êin	Fair / Windy
+26/11/2021	7:50 am	39Ê¡F	34Ê¡F	81Ê%	WNW	22Êmph	36Êmph	28.91Êin	0.0Êin	Partly Cloudy / Windy
+26/11/2021	8:20 am	37Ê¡F	34Ê¡F	87Ê%	NW	31Êmph	45Êmph	28.91Êin	0.0Êin	Wintry Mix / Windy
+26/11/2021	8:50 am	36Ê¡F	32Ê¡F	87Ê%	WNW	22Êmph	33Êmph	28.88Êin	0.0Êin	Fair / Windy
+26/11/2021	9:20 am	37Ê¡F	32Ê¡F	81Ê%	WNW	23Êmph	0Êmph	28.88Êin	0.0Êin	Partly Cloudy / Windy
+26/11/2021	9:50 am	36Ê¡F	32Ê¡F	87Ê%	WNW	24Êmph	38Êmph	28.85Êin	0.0Êin	Snow Shower / Windy
+26/11/2021	10:20 am	34Ê¡F	32Ê¡F	93Ê%	WNW	28Êmph	44Êmph	28.82Êin	0.0Êin	Snow Shower / Windy
+26/11/2021	10:50 am	34Ê¡F	32Ê¡F	93Ê%	WNW	21Êmph	0Êmph	28.82Êin	0.0Êin	Wintry Mix / Windy
+26/11/2021	11:20 am	34Ê¡F	32Ê¡F	93Ê%	WNW	16Êmph	0Êmph	28.79Êin	0.0Êin	Wintry Mix
+26/11/2021	11:50 am	36Ê¡F	34Ê¡F	93Ê%	NW	37Êmph	53Êmph	28.73Êin	0.0Êin	Showers in the Vicinity
+26/11/2021	12:20 pm	36Ê¡F	36Ê¡F	100Ê%	NW	22Êmph	0Êmph	28.76Êin	0.0Êin	Mostly Cloudy / Windy
+26/11/2021	12:50 pm	37Ê¡F	36Ê¡F	93Ê%	NW	25Êmph	38Êmph	28.76Êin	0.0Êin	Light Rain / Windy
+26/11/2021	1:20 pm	36Ê¡F	34Ê¡F	93Ê%	NW	18Êmph	0Êmph	28.73Êin	0.0Êin	Mostly Cloudy
+26/11/2021	1:50 pm	39Ê¡F	36Ê¡F	87Ê%	NW	25Êmph	39Êmph	28.73Êin	0.0Êin	Light Rain / Windy
+26/11/2021	2:20 pm	39Ê¡F	37Ê¡F	93Ê%	N	23Êmph	0Êmph	28.73Êin	0.0Êin	Rain / Windy
+26/11/2021	2:50 pm	41Ê¡F	37Ê¡F	87Ê%	NNW	36Êmph	52Êmph	28.73Êin	0.0Êin	Rain / Windy
+26/11/2021	3:20 pm	39Ê¡F	37Ê¡F	93Ê%	N	35Êmph	52Êmph	28.73Êin	0.0Êin	Rain / Windy
+26/11/2021	3:50 pm	39Ê¡F	36Ê¡F	87Ê%	N	37Êmph	55Êmph	28.76Êin	0.0Êin	Rain / Windy
+26/11/2021	4:20 pm	36Ê¡F	34Ê¡F	93Ê%	N	39Êmph	59Êmph	28.79Êin	0.0Êin	Rain / Windy
+26/11/2021	4:50 pm	36Ê¡F	36Ê¡F	100Ê%	N	39Êmph	60Êmph	28.82Êin	0.0Êin	Rain / Windy
+26/11/2021	5:20 pm	39Ê¡F	36Ê¡F	87Ê%	N	37Êmph	61Êmph	28.85Êin	0.0Êin	Light Rain / Windy
+26/11/2021	5:50 pm	39Ê¡F	36Ê¡F	87Ê%	N	37Êmph	60Êmph	28.88Êin	0.0Êin	Light Rain / Windy
+26/11/2021	6:20 pm	39Ê¡F	36Ê¡F	87Ê%	N	40Êmph	66Êmph	28.91Êin	0.0Êin	Light Rain / Windy
+26/11/2021	6:50 pm	39Ê¡F	36Ê¡F	87Ê%	N	37Êmph	61Êmph	28.97Êin	0.0Êin	Light Rain / Windy
+26/11/2021	7:20 pm	39Ê¡F	34Ê¡F	81Ê%	N	38Êmph	64Êmph	29.00Êin	0.0Êin	Light Rain / Windy
+26/11/2021	7:50 pm	39Ê¡F	34Ê¡F	81Ê%	N	40Êmph	61Êmph	29.03Êin	0.0Êin	Light Rain / Windy
+26/11/2021	8:20 pm	39Ê¡F	34Ê¡F	81Ê%	N	33Êmph	56Êmph	29.08Êin	0.0Êin	Light Rain / Windy
+26/11/2021	8:50 pm	39Ê¡F	32Ê¡F	75Ê%	N	37Êmph	55Êmph	29.11Êin	0.0Êin	Light Rain / Windy
+26/11/2021	9:20 pm	39Ê¡F	32Ê¡F	75Ê%	N	37Êmph	58Êmph	29.14Êin	0.0Êin	Light Rain / Windy
+26/11/2021	9:50 pm	39Ê¡F	30Ê¡F	70Ê%	N	29Êmph	46Êmph	29.17Êin	0.0Êin	Light Rain / Windy
+26/11/2021	10:20 pm	39Ê¡F	30Ê¡F	70Ê%	N	33Êmph	49Êmph	29.20Êin	0.0Êin	Light Rain / Windy
+26/11/2021	10:50 pm	37Ê¡F	32Ê¡F	81Ê%	N	30Êmph	45Êmph	29.23Êin	0.0Êin	Partly Cloudy / Windy
+26/11/2021	11:20 pm	37Ê¡F	30Ê¡F	75Ê%	N	31Êmph	51Êmph	29.26Êin	0.0Êin	Light Rain / Windy
+26/11/2021	11:50 pm	37Ê¡F	30Ê¡F	75Ê%	N	26Êmph	40Êmph	29.26Êin	0.0Êin	Wintry Mix / Windy
+27/11/2021	12:20 am	37Ê¡F	30Ê¡F	75Ê%	N	30Êmph	46Êmph	29.29Êin	0.0Êin	Partly Cloudy / Windy
+27/11/2021	12:50 am	39Ê¡F	27Ê¡F	61Ê%	N	26Êmph	41Êmph	29.29Êin	0.0Êin	Fair / Windy
+27/11/2021	1:20 am	37Ê¡F	27Ê¡F	65Ê%	N	24Êmph	38Êmph	29.29Êin	0.0Êin	Fair / Windy
+27/11/2021	1:50 am	39Ê¡F	25Ê¡F	56Ê%	N	28Êmph	39Êmph	29.29Êin	0.0Êin	Light Rain / Windy
+27/11/2021	2:20 am	37Ê¡F	28Ê¡F	70Ê%	N	24Êmph	36Êmph	29.32Êin	0.0Êin	Fair / Windy
+27/11/2021	2:50 am	37Ê¡F	30Ê¡F	75Ê%	NNW	29Êmph	45Êmph	29.32Êin	0.0Êin	Fair / Windy
+27/11/2021	3:20 am	37Ê¡F	28Ê¡F	70Ê%	N	28Êmph	46Êmph	29.35Êin	0.0Êin	Light Snow / Windy
+27/11/2021	3:50 am	36Ê¡F	30Ê¡F	81Ê%	N	30Êmph	47Êmph	29.35Êin	0.0Êin	Wintry Mix / Windy
+27/11/2021	4:20 am	36Ê¡F	30Ê¡F	81Ê%	N	30Êmph	41Êmph	29.38Êin	0.0Êin	Wintry Mix / Windy
+27/11/2021	4:50 am	36Ê¡F	30Ê¡F	81Ê%	N	29Êmph	41Êmph	29.38Êin	0.0Êin	Fair / Windy
+27/11/2021	5:20 am	36Ê¡F	32Ê¡F	87Ê%	NNW	29Êmph	41Êmph	29.41Êin	0.0Êin	Wintry Mix / Windy
+27/11/2021	5:50 am	37Ê¡F	28Ê¡F	70Ê%	N	23Êmph	35Êmph	29.41Êin	0.0Êin	Partly Cloudy / Windy
+27/11/2021	6:20 am	37Ê¡F	28Ê¡F	70Ê%	N	23Êmph	37Êmph	29.41Êin	0.0Êin	Light Rain / Windy
+27/11/2021	6:50 am	36Ê¡F	30Ê¡F	81Ê%	NNW	26Êmph	38Êmph	29.44Êin	0.0Êin	Light Snow / Windy
+27/11/2021	7:20 am	36Ê¡F	28Ê¡F	75Ê%	NNW	23Êmph	36Êmph	29.44Êin	0.0Êin	Partly Cloudy / Windy
+27/11/2021	7:50 am	37Ê¡F	27Ê¡F	65Ê%	N	24Êmph	0Êmph	29.46Êin	0.0Êin	Showers in the Vicinity
+27/11/2021	8:20 am	36Ê¡F	27Ê¡F	70Ê%	N	22Êmph	0Êmph	29.46Êin	0.0Êin	Partly Cloudy / Windy
+27/11/2021	8:50 am	36Ê¡F	23Ê¡F	60Ê%	N	21Êmph	0Êmph	29.49Êin	0.0Êin	Partly Cloudy / Windy
+27/11/2021	9:20 am	36Ê¡F	27Ê¡F	70Ê%	NNW	22Êmph	0Êmph	29.49Êin	0.0Êin	Fair / Windy
+27/11/2021	9:50 am	36Ê¡F	23Ê¡F	60Ê%	NNW	23Êmph	0Êmph	29.49Êin	0.0Êin	Fair / Windy
+27/11/2021	10:20 am	36Ê¡F	28Ê¡F	75Ê%	NNW	18Êmph	0Êmph	29.49Êin	0.0Êin	Fair
+27/11/2021	10:50 am	36Ê¡F	28Ê¡F	75Ê%	NNW	24Êmph	36Êmph	29.49Êin	0.0Êin	Fair / Windy
+27/11/2021	11:20 am	34Ê¡F	30Ê¡F	87Ê%	N	14Êmph	0Êmph	29.52Êin	0.0Êin	Light Snow
+27/11/2021	11:50 am	36Ê¡F	27Ê¡F	70Ê%	NNW	23Êmph	0Êmph	29.52Êin	0.0Êin	Partly Cloudy / Windy
+27/11/2021	12:20 pm	36Ê¡F	27Ê¡F	70Ê%	NNW	21Êmph	0Êmph	29.52Êin	0.0Êin	Partly Cloudy / Windy
+27/11/2021	12:50 pm	37Ê¡F	28Ê¡F	70Ê%	N	14Êmph	0Êmph	29.52Êin	0.0Êin	Partly Cloudy
+27/11/2021	1:20 pm	34Ê¡F	30Ê¡F	87Ê%	N	20Êmph	31Êmph	29.52Êin	0.0Êin	Light Snow Shower
+27/11/2021	1:50 pm	34Ê¡F	30Ê¡F	87Ê%	N	14Êmph	0Êmph	29.52Êin	0.0Êin	Showers in the Vicinity
+27/11/2021	2:20 pm	37Ê¡F	27Ê¡F	65Ê%	N	17Êmph	29Êmph	29.52Êin	0.0Êin	Showers in the Vicinity
+27/11/2021	2:50 pm	36Ê¡F	25Ê¡F	65Ê%	NNW	17Êmph	0Êmph	29.52Êin	0.0Êin	Showers in the Vicinity
+27/11/2021	3:20 pm	36Ê¡F	27Ê¡F	70Ê%	NNW	18Êmph	0Êmph	29.52Êin	0.0Êin	Mostly Cloudy
+27/11/2021	3:50 pm	34Ê¡F	28Ê¡F	81Ê%	NW	16Êmph	0Êmph	29.55Êin	0.0Êin	Fair
+27/11/2021	4:20 pm	34Ê¡F	28Ê¡F	81Ê%	NW	18Êmph	0Êmph	29.55Êin	0.0Êin	Fair
+27/11/2021	4:50 pm	32Ê¡F	28Ê¡F	87Ê%	NNW	15Êmph	0Êmph	29.55Êin	0.0Êin	Partly Cloudy
+27/11/2021	5:20 pm	34Ê¡F	28Ê¡F	81Ê%	N	9Êmph	0Êmph	29.55Êin	0.0Êin	Wintry Mix
+27/11/2021	5:50 pm	34Ê¡F	30Ê¡F	87Ê%	N	13Êmph	0Êmph	29.58Êin	0.0Êin	Light Snow
+27/11/2021	6:20 pm	32Ê¡F	30Ê¡F	93Ê%	NW	13Êmph	0Êmph	29.55Êin	0.0Êin	Fair
+27/11/2021	6:50 pm	34Ê¡F	28Ê¡F	81Ê%	NW	16Êmph	0Êmph	29.55Êin	0.0Êin	Fair
+27/11/2021	7:20 pm	34Ê¡F	28Ê¡F	81Ê%	NW	8Êmph	0Êmph	29.58Êin	0.0Êin	Wintry Mix
